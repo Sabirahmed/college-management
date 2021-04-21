@@ -1,0 +1,53 @@
+{
+
+    "colleges":[
+
+        {
+            "id":"1",
+            "name":"Acharya Narendra Dev College",
+            "location":"Govindpuri",
+            "area":"South Campus",
+            "city": "Delhi",
+            "img":"https://img.collegedekhocdn.com/media/img/institute/crawled_images/Acharya_Narendra_Dev_College.jpg?tr=w-250,h-150",
+            "des":"The mission of this college Acharya Narendra Dev College is to provide cutting edge exposure to its students in the field of education and research. The college believes learning beyond the textbook and in the holistic development of the students. The college also has the Foreign Language Centre which was established in the year 2003. It offers certificate and diploma courses in  French, Spanish, German and Russian language."
+        },
+        {
+            "id":"2",
+            "name":"Indraprastha College for Women",
+            "location":"Civil Line",
+            "area":"North Campus",
+            "city":"Delhi",
+            "img":"https://img.collegedekhocdn.com/media/img/institute/crawled_images/None/DGHGFDJDGFJGJSDGHJ.jpg?tr=w-250,h-150",
+            "des":"Indraprastha College (IP College) for Women is the oldest women’s college in Delhi. It was established in the year 1924 and is affiliated to Delhi University. The motto of this college is “ Truth, Love, Knowledge, Service”.The college enrols over 3500 students every year both in the undergraduate and postgraduate course."
+        },
+        {
+            "id":"3",
+            "name":"Maulana Azad Medical College",
+            "location":"LNJP Colony",
+            "city":"Delhi",
+            "area":"Central Delhi",
+            "img":"https://img.collegedekhocdn.com/media/img/institute/crawled_images/index_1_F9lgkra.jpg?tr=w-250,h-150",
+            "des":"Maulana Azad Medical College is situated in Delhi in Delhi state of India. Established in 1958, it is accredited from MCI and it is affiliated to University of Delhi. MAMC, Delhi offers 27 courses across 5 streams namely Medical, Science, Paramedical, Pharmacy, Dental and across 5 degrees like MBBS, BDS, MD, MS (Surgery), Diploma. MAMC campus is spread over 30 Acres. Hostel facility is not available for its students. Additional campus facilities such as Boys Hostel, Computer Lab, Library are also there. b'Maulana Azad Medical College' accepts National Eligibility Cum Entrance Test-(NEET-UG) for admission into Engineering courses and National Eligibility Cum Entrance Test-(NEET-UG) for admission into Engineering courses"
+        },
+        {
+           "id": "4",
+            "name":"Delhi College of Arts and Commerce",
+            "location":"Netaji Nagar",
+            "area":"South Campus",
+            "city":"Delhi",
+            "img":"https://img.collegedekhocdn.com/media/img/institute/crawled_images/None/FDGDFGFDG.jpg?tr=w-250,h-150",
+            "des":"Delhi College of Arts and Commerce (DCAC) is a constituent college affiliated to University of Delhi is a premier institution of higher learning. This co-educational institution is partially financed by the Govt. Of NCT, Delhi. Erstwhile G.D Salwan college, it was established in 1987 under the aegis of Delhi Administration."
+        },
+        {
+            "id":"5",
+            "name":"Delhi Institute of Pharmaceutical Science & Research",
+            "location":"Pushpvihar",
+            "area":"South Delhi",
+            "city":"Delhi",
+            "img":"https://img.collegedekhocdn.com/media/img/institute/crawled_images/dp.jpg?tr=w-250,h-150",
+            "des":"Delhi Institute of Pharmaceutical Science & Research (DIPSAR) is affiliated with Delhi University. Delhi Institute of Pharmaceutical Science and Research was established in 1964. Delhi Institute of Pharmaceutical Science and Research (DIPSAR) was formerly known as Department of Pharmacy of Delhi Polytechnic. Delhi Institute of Pharmaceutical Science and Research is approved by AICTE."
+        }
+
+    ]
+}  
+   

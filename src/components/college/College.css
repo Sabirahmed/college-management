@@ -1,0 +1,19 @@
+#img {
+    float: left;
+  }
+  
+
+#button {
+  margin: 10px ;
+  border: 5px 0 black;
+  background-color: rgb(75 212 132);;
+  width:80px;
+  height: 40px;
+  text-align: center;
+  left: 50%;
+  position: absolute;
+  padding: 0;
+  display: inline-block;
+
+}
+
